@@ -1,2 +1,2 @@
 # Smart-Clinic
-Start your smart clinic now
+This repo use to record a medical condition and therapy
